@@ -1,5 +1,6 @@
 # ✈️ AI Travel Planner
 This project is an AI-powered travel planner that generates personalized day-trip itineraries based on a user-specified city and interests. The application features a user-friendly web interface built with Streamlit and leverages a LangGraph-managed workflow to generate plans via the Groq API.
+
 ![Ekran görüntüsü 2025-07-01 115657](https://github.com/user-attachments/assets/c566d13a-94a9-413a-93bc-13c3a13de241)
 
 ## 🚀 Key Features
